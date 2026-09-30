@@ -1,0 +1,509 @@
+#EXTM3U
+#EXTINF:-1 ,====== 央视频道,#genre# ======
+http://0/0.m3u8
+#EXTINF:-1 ,CCTV1
+rtsp://60.212.114.219:1554/iptv/import/Tvod/iptv/001/001/ch12122514263996485740.rsc/48118_Uni.sdp
+#EXTINF:-1 ,CCTV2
+rtsp://60.212.114.219:1554/iptv/import/Tvod/iptv/001/001/ch15111015505054435886.rsc/61597_Uni.sdp
+#EXTINF:-1 ,CCTV3
+rtsp://60.212.114.220:1554/iptv/import/Tvod/iptv/001/001/ch21072816504132734115.rsc/92124_Uni.sdp
+#EXTINF:-1 ,CCTV4
+rtsp://60.212.114.219:1554/iptv/import/Tvod/iptv/001/001/ch17121814361050007455.rsc/76155_Uni.sdp
+#EXTINF:-1 ,CCTV5
+rtsp://60.212.114.215:1554/iptv/import/Tvod/iptv/001/001/ch21072816512692879794.rsc/92105_Uni.sdp
+#EXTINF:-1 ,CCTV5+
+rtsp://60.212.114.216:1554/iptv/import/Tvod/iptv/001/001/ch11061217321508656858.rsc/48135_Uni.sdp
+#EXTINF:-1 ,CCTV6
+rtsp://60.212.114.220:1554/iptv/import/Tvod/iptv/001/001/ch21072816530254611367.rsc/92094_Uni.sdp
+#EXTINF:-1 ,CCTV7
+rtsp://60.212.114.216:1554/iptv/import/Tvod/iptv/001/001/ch15111015535263088598.rsc/61598_Uni.sdp
+#EXTINF:-1 ,CCTV8
+rtsp://60.212.114.216:1554/iptv/import/Tvod/iptv/001/001/ch21072816531463294165.rsc/92075_Uni.sdp
+#EXTINF:-1 ,CCTV9
+rtsp://60.212.114.219:1554/iptv/import/Tvod/iptv/001/001/ch15050917541424212319.rsc/48044_Uni.sdp
+#EXTINF:-1 ,CCTV10
+rtsp://60.212.114.216:1554/iptv/import/Tvod/iptv/001/001/ch15111015554384702984.rsc/61599_Uni.sdp
+#EXTINF:-1 ,CCTV11
+rtsp://60.212.114.216:1554/iptv/import/Tvod/iptv/001/001/ch11122400354496191158.rsc/48143_Uni.sdp
+#EXTINF:-1 ,CCTV12
+rtsp://60.212.114.219:1554/iptv/import/Tvod/iptv/001/001/ch15111015571407754299.rsc/61600_Uni.sdp
+#EXTINF:-1 ,CCTV13
+rtsp://60.212.114.220:1554/iptv/import/Tvod/iptv/001/001/ch15050914361303395989.rsc/48064_Uni.sdp
+#EXTINF:-1 ,CCTV14
+rtsp://60.212.114.220:1554/iptv/import/Tvod/iptv/001/001/ch15111016003483433803.rsc/61601_Uni.sdp
+#EXTINF:-1 ,CCTV15
+rtsp://60.212.114.215:1554/iptv/import/Tvod/iptv/001/001/ch11122400365842237336.rsc/48053_Uni.sdp
+#EXTINF:-1 ,CCTV17
+rtsp://60.212.114.215:1554/iptv/import/Tvod/iptv/001/001/ch19073116233495000222.rsc/86176_Uni.sdp
+#EXTINF:-1 ,CGTN
+rtsp://60.212.114.220:1554/iptv/import/Tvod/iptv/001/001/ch15050914501799552135.rsc/48167_Uni.sdp
+#EXTINF:-1 ,====== 山东频道,#genre# ======
+http://1/1.m3u8
+#EXTINF:-1 ,山东卫视
+rtsp://60.212.114.219:1554/iptv/import/Tvod/iptv/001/001/ch15050916441119736372.rsc/48066_Uni.sdp
+#EXTINF:-1 ,山东齐鲁
+rtsp://60.212.114.220:1554/iptv/import/Tvod/iptv/001/001/ch10120117223157422538.rsc/48168_Uni.sdp
+#EXTINF:-1 ,山东文旅
+rtsp://60.212.114.219:1554/iptv/import/Tvod/iptv/001/001/ch10120117133527564831.rsc/48070_Uni.sdp
+#EXTINF:-1 ,山东生活
+rtsp://60.212.114.216:1554/iptv/import/Tvod/iptv/001/001/ch10120117100570561699.rsc/48159_Uni.sdp
+#EXTINF:-1 ,山东综艺
+rtsp://60.212.114.220:1554/iptv/import/Tvod/iptv/001/001/ch11012815051671532768.rsc/48079_Uni.sdp
+#EXTINF:-1 ,山东体育
+rtsp://60.212.114.220:1554/iptv/import/Tvod/iptv/001/001/ch10111720502861127519.rsc/48119_Uni.sdp
+#EXTINF:-1 ,山东新闻
+rtsp://60.212.114.219:1554/iptv/import/Tvod/iptv/001/001/ch10120117023986249401.rsc/48057_Uni.sdp
+#EXTINF:-1 ,山东农科
+rtsp://60.212.114.215:1554/iptv/import/Tvod/iptv/001/001/ch11012815072111657053.rsc/48093_Uni.sdp
+#EXTINF:-1 ,山东少儿
+rtsp://60.212.114.219:1554/iptv/import/Tvod/iptv/001/001/ch11012815083626567264.rsc/48078_Uni.sdp
+#EXTINF:-1 ,山东教育
+rtsp://60.212.114.219:1554/iptv/import/Tvod/iptv/001/001/ch10120118342495301658.rsc/48062_Uni.sdp
+#EXTINF:-1 ,山东居家购物
+rtsp://60.212.114.216:1554/iptv/import/Tvod/iptv/001/001/ch17071714290877281996.rsc/69666_Uni.sdp
+#EXTINF:-1 ,====== 特色频道,#genre# ======
+http://2/2.m3u8
+#EXTINF:-1 ,重温经典频道
+https://cdn.jdshipin.com/cwjd.php
+#EXTINF:-1 ,重温经典频道
+http://m.061899.xyz/mg/cwjd
+#EXTINF:-1 ,重温经典频道
+http://8.138.7.223/tv/cwjd.php
+#EXTINF:-1 ,欢笑剧场
+http://38.75.136.137:98/gslb/dsdqpub/hxjchd.m3u8?auth=testpub
+#EXTINF:-1 ,都市剧场
+http://38.75.136.137:98/gslb/dsdqpub/dsjchd.m3u8?auth=testpub
+#EXTINF:-1 ,怀旧剧场
+http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
+#EXTINF:-1 ,重温经典
+http://38.75.136.137:98/gslb/dsdqpub/cwjd.m3u8?auth=testpub
+#EXTINF:-1 ,湖北影视
+http://38.75.136.137:98/gslb/dsdqpub/hbys.m3u8?auth=testpub
+#EXTINF:-1 ,天津影视
+http://38.75.136.137:98/gslb/dsdqpub/tjtv3.m3u8?auth=testpub
+#EXTINF:-1 ,央视台球
+http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
+#EXTINF:-1 ,五星体育
+http://38.75.136.137:98/gslb/dsdqpub/wxtyhd.m3u8?auth=testpub
+#EXTINF:-1 ,高尔夫网球
+http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
+#EXTINF:-1 ,广东体育
+http://38.75.136.137:98/gslb/dsdqpub/gdty.m3u8?auth=testpub
+#EXTINF:-1 ,天津体育
+http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
+#EXTINF:-1 ,风云足球
+http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
+#EXTINF:-1 ,世界地理
+http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
+#EXTINF:-1 ,风云音乐
+http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub央视频道,#genre#
+#EXTINF:-1 ,====== 卫视频道,#genre# ======
+http://3/3.m3u8
+#EXTINF:-1 ,北京卫视
+rtsp://60.212.114.215:1554/iptv/import/Tvod/iptv/001/001/ch12051116365437815794.rsc/48054_Uni.sdp
+#EXTINF:-1 ,湖南卫视
+rtsp://60.212.114.216:1554/iptv/import/Tvod/iptv/001/001/ch12051116352384581471.rsc/48080_Uni.sdp
+#EXTINF:-1 ,河南卫视
+rtsp://60.212.114.220:1554/iptv/import/Tvod/iptv/001/001/ch10120118312827983078.rsc/48132_Uni.sdp
+#EXTINF:-1 ,浙江卫视
+rtsp://60.212.114.215:1554/iptv/import/Tvod/iptv/001/001/ch15050917541521964962.rsc/48151_Uni.sdp
+#EXTINF:-1 ,东方卫视
+rtsp://60.212.114.219:1554/iptv/import/Tvod/iptv/001/001/ch15050917541568689826.rsc/48038_Uni.sdp
+#EXTINF:-1 ,江苏卫视
+rtsp://60.212.114.216:1554/iptv/import/Tvod/iptv/001/001/ch12051116384379542816.rsc/48096_Uni.sdp
+#EXTINF:-1 ,安徽卫视
+rtsp://60.212.114.220:1554/iptv/import/Tvod/iptv/001/001/ch15050917541532308683.rsc/48059_Uni.sdp
+#EXTINF:-1 ,天津卫视
+rtsp://60.212.114.219:1554/iptv/import/Tvod/iptv/001/001/ch15050917541659846769.rsc/48130_Uni.sdp
+#EXTINF:-1 ,辽宁卫视
+rtsp://60.212.114.216:1554/iptv/import/Tvod/iptv/001/001/ch15050917541756096231.rsc/48145_Uni.sdp
+#EXTINF:-1 ,深圳卫视
+rtsp://60.212.114.215:1554/iptv/import/Tvod/iptv/001/001/ch12051116392957055081.rsc/48086_Uni.sdp
+#EXTINF:-1 ,东南卫视
+rtsp://60.212.114.220:1554/iptv/import/Tvod/iptv/001/001/ch17082318094203998689.rsc/71925_Uni.sdp
+#EXTINF:-1 ,湖北卫视
+rtsp://60.212.114.220:1554/iptv/import/Tvod/iptv/001/001/ch15050917541519800547.rsc/48094_Uni.sdp
+#EXTINF:-1 ,广东卫视
+rtsp://60.212.114.219:1554/iptv/import/Tvod/iptv/001/001/ch15050917541650823873.rsc/48155_Uni.sdp
+#EXTINF:-1 ,黑龙江卫视
+rtsp://60.212.114.220:1554/iptv/import/Tvod/iptv/001/001/ch12051116400952898093.rsc/48032_Uni.sdp
+#EXTINF:-1 ,贵州卫视
+rtsp://60.212.114.219:1554/iptv/import/Tvod/iptv/001/001/ch17121814402415050847.rsc/76154_Uni.sdp
+#EXTINF:-1 ,河北卫视
+rtsp://60.212.114.216:1554/iptv/import/Tvod/iptv/001/001/ch17121814385494126166.rsc/76153_Uni.sdp
+#EXTINF:-1 ,重庆卫视
+rtsp://60.212.114.216:1554/iptv/import/Tvod/iptv/001/001/ch10120118293449046768.rsc/48034_Uni.sdp
+#EXTINF:-1 ,海南卫视
+rtsp://60.212.114.215:1554/iptv/import/Tvod/iptv/001/001/ch10120116181598810422.rsc/48071_Uni.sdp
+#EXTINF:-1 ,四川卫视
+rtsp://60.212.114.216:1554/iptv/import/Tvod/iptv/001/001/ch11122400393964414144.rsc/48040_Uni.sdp
+#EXTINF:-1 ,江西卫视
+rtsp://60.212.114.220:1554/iptv/import/Tvod/iptv/001/001/ch10120118345500084693.rsc/48039_Uni.sdp
+#EXTINF:-1 ,广西卫视
+rtsp://60.212.114.220:1554/iptv/import/Tvod/iptv/001/001/ch10120114524702485505.rsc/48045_Uni.sdp
+#EXTINF:-1 ,吉林卫视
+rtsp://60.212.114.215:1554/iptv/import/Tvod/iptv/001/001/ch10120116035123677506.rsc/48113_Uni.sdp
+#EXTINF:-1 ,云南卫视
+rtsp://60.212.114.215:1554/iptv/import/Tvod/iptv/001/001/ch10120116144658191615.rsc/48047_Uni.sdp
+#EXTINF:-1 ,新疆卫视
+rtsp://60.212.114.219:1554/iptv/import/Tvod/iptv/001/001/ch10120118204473437661.rsc/48072_Uni.sdp
+#EXTINF:-1 ,甘肃卫视
+rtsp://60.212.115.183:1554/iptv/import/Tvod/iptv/001/001/ch21092610332476918454.rsc/100129_Uni.sdp
+#EXTINF:-1 ,青海卫视
+rtsp://60.212.114.215:1554/iptv/import/Tvod/iptv/001/001/ch10120118273518671654.rsc/48131_Uni.sdp
+#EXTINF:-1 ,西藏卫视
+rtsp://60.212.114.220:1554/iptv/import/Tvod/iptv/001/001/ch10120116213780720306.rsc/48123_Uni.sdp
+#EXTINF:-1 ,兵团卫视
+rtsp://60.212.114.215:1554/iptv/import/Tvod/iptv/001/001/ch10120116250568011708.rsc/48116_Uni.sdp
+#EXTINF:-1 ,山西卫视
+rtsp://60.212.114.219:1554/iptv/import/Tvod/iptv/001/001/ch10120118303484157828.rsc/48114_Uni.sdp
+#EXTINF:-1 ,陕西卫视
+rtsp://60.212.114.216:1554/iptv/import/Tvod/iptv/001/001/ch10120118332130518297.rsc/48098_Uni.sdp
+#EXTINF:-1 ,内蒙古卫视
+rtsp://60.212.114.219:1554/iptv/import/Tvod/iptv/001/001/ch10120118290217488762.rsc/48158_Uni.sdp
+#EXTINF:-1 ,农林卫视
+rtsp://60.212.114.215:1554/iptv/import/Tvod/iptv/001/001/ch10120118335748437793.rsc/48136_Uni.sdp
+#EXTINF:-1 ,厦门卫视
+rtsp://60.212.114.216:1554/iptv/import/Tvod/iptv/001/001/ch17120418140581348001.rsc/74102_Uni.sdp
+#EXTINF:-1 ,延边卫视
+rtsp://60.212.115.182:1554/iptv/import/Tvod/iptv/001/001/ch23072116063432685915.rsc/98648_Uni.sdp
+#EXTINF:-1 ,三沙卫视
+rtsp://60.212.114.219:1554/iptv/import/Tvod/iptv/001/001/ch19120615372589393337.rsc/89788_Uni.sdp
+#EXTINF:-1 ,====== 少儿频道,#genre# ======
+http://4/4.m3u8
+#EXTINF:-1 ,CCTV14
+rtsp://60.212.114.220:1554/iptv/import/Tvod/iptv/001/001/ch15111016003483433803.rsc/61601_Uni.sdp
+#EXTINF:-1 ,山东少儿
+rtsp://60.212.114.219:1554/iptv/import/Tvod/iptv/001/001/ch11012815083626567264.rsc/48078_Uni.sdp
+#EXTINF:-1 ,卡酷少儿
+rtsp://60.212.114.216:1554/iptv/import/Tvod/iptv/001/001/ch10120118400576795406.rsc/48122_Uni.sdp
+#EXTINF:-1 ,金鹰纪实
+rtsp://60.212.114.215:1554/iptv/import/Tvod/iptv/001/001/ch15050917541337365144.rsc/67481_Uni.sdp
+#EXTINF:-1 ,金鹰卡通
+rtsp://60.212.114.220:1554/iptv/import/Tvod/iptv/001/001/ch11122400412227153064.rsc/48120_Uni.sdp
+#EXTINF:-1 ,优漫卡通
+rtsp://60.212.114.220:1554/iptv/import/Tvod/iptv/001/001/ch11042914374730524823.rsc/48103_Uni.sdp
+#EXTINF:-1 ,嘉佳卡通
+rtsp://60.212.114.216:1554/iptv/import/Tvod/iptv/001/001/ch15050917541249689380.rsc/48052_Uni.sdp
+#EXTINF:-1 ,====== 其他频道,#genre# ======
+http://5/5.m3u8
+#EXTINF:-1 ,CHC家庭影院
+rtsp://60.212.114.216:1554/iptv/import/Tvod/iptv/001/001/ch18120514091718394256.rsc/83270_Uni.sdp
+#EXTINF:-1 ,CHC动作电影
+rtsp://60.212.114.215:1554/iptv/import/Tvod/iptv/001/001/ch18120514100139517699.rsc/83244_Uni.sdp
+#EXTINF:-1 ,CHC影迷电影
+rtsp://60.212.114.215:1554/iptv/import/Tvod/iptv/001/001/ch18120514102191199606.rsc/81238_Uni.sdp
+#EXTINF:-1 ,中国教育1
+rtsp://60.212.114.219:1554/iptv/import/Tvod/iptv/001/001/ch17120418204481298161.rsc/75037_Uni.sdp
+#EXTINF:-1 ,中国教育2
+rtsp://60.212.114.215:1554/iptv/import/Tvod/iptv/001/001/ch17120417211408620162.rsc/74860_Uni.sdp
+#EXTINF:-1 ,中国教育4
+rtsp://60.212.114.219:1554/iptv/import/Tvod/iptv/001/001/ch17120418055568047747.rsc/74930_Uni.sdp
+#EXTINF:-1 ,中国交通
+rtsp://60.212.114.219:1554/iptv/import/Tvod/iptv/001/001/ch20110221445820405906.rsc/90527_Uni.sdp
+#EXTINF:-1 ,新动漫
+rtsp://60.212.114.215:1554/iptv/import/Tvod/iptv/001/001/ch18120514112382335432.rsc/83297_Uni.sdp
+#EXTINF:-1 ,====== 轮播频道,#genre# ======
+http://6/6.m3u8
+#EXTINF:-1 ,谍战剧场
+rtsp://60.212.114.215:1554/iptv/import/Tvod/iptv/001/001/ch13031310523562855603.rsc/48068_Uni.sdp
+#EXTINF:-1 ,城市剧场
+rtsp://60.212.114.216:1554/iptv/import/Tvod/iptv/001/001/ch15090914573308932938.rsc/48141_Uni.sdp
+#EXTINF:-1 ,军旅剧场
+rtsp://60.212.114.216:1554/iptv/import/Tvod/iptv/001/001/ch15090915023023311866.rsc/48144_Uni.sdp
+#EXTINF:-1 ,古装剧场
+rtsp://60.212.114.219:1554/iptv/import/Tvod/iptv/001/001/ch15090915062673403232.rsc/48152_Uni.sdp
+#EXTINF:-1 ,经典剧场
+rtsp://60.212.114.219:1554/iptv/import/Tvod/iptv/001/001/ch15090915512437000823.rsc/48125_Uni.sdp
+#EXTINF:-1 ,武侠剧场
+rtsp://60.212.114.220:1554/iptv/import/Tvod/iptv/001/001/ch15090915591653040173.rsc/48091_Uni.sdp
+#EXTINF:-1 ,热播剧场
+rtsp://60.212.114.215:1554/iptv/import/Tvod/iptv/001/001/ch11060317301148954080.rsc/48033_Uni.sdp
+#EXTINF:-1 ,红色影院
+rtsp://60.212.114.219:1554/iptv/import/Tvod/iptv/001/001/ch15090915431474482038.rsc/48142_Uni.sdp
+#EXTINF:-1 ,家庭影院
+rtsp://60.212.114.219:1554/iptv/import/Tvod/iptv/001/001/ch15090916215642164569.rsc/48100_Uni.sdp
+#EXTINF:-1 ,喜剧影院
+rtsp://60.212.114.220:1554/iptv/import/Tvod/iptv/001/001/ch15090916165898699737.rsc/48042_Uni.sdp
+#EXTINF:-1 ,动作影院
+rtsp://60.212.114.219:1554/iptv/import/Tvod/iptv/001/001/ch15090916164124642866.rsc/48162_Uni.sdp
+#EXTINF:-1 ,足球
+rtsp://60.212.114.216:1554/iptv/import/Tvod/iptv/001/001/ch15090915041757410943.rsc/48037_Uni.sdp
+#EXTINF:-1 ,军事
+rtsp://60.212.114.219:1554/iptv/import/Tvod/iptv/001/001/ch15090915223200641077.rsc/48090_Uni.sdp
+#EXTINF:-1 ,地理
+rtsp://60.212.114.219:1554/iptv/import/Tvod/iptv/001/001/ch15090915235866760733.rsc/48082_Uni.sdp
+#EXTINF:-1 ,精选
+rtsp://60.212.114.220:1554/iptv/import/Tvod/iptv/001/001/ch15090915484219614929.rsc/48129_Uni.sdp
+#EXTINF:-1 ,美人
+rtsp://60.212.114.219:1554/iptv/import/Tvod/iptv/001/001/ch15090916040665863835.rsc/48153_Uni.sdp
+#EXTINF:-1 ,鉴赏
+rtsp://60.212.114.220:1554/iptv/import/Tvod/iptv/001/001/ch15090916075722072184.rsc/48084_Uni.sdp
+#EXTINF:-1 ,国学
+rtsp://60.212.114.219:1554/iptv/import/Tvod/iptv/001/001/ch15090916181970967371.rsc/48134_Uni.sdp
+#EXTINF:-1 ,星影
+rtsp://60.212.114.220:1554/iptv/import/Tvod/iptv/001/001/ch15090916302647677604.rsc/48154_Uni.sdp
+#EXTINF:-1 ,早教
+rtsp://60.212.114.220:1554/iptv/import/Tvod/iptv/001/001/ch15090916274339587371.rsc/48170_Uni.sdp
+#EXTINF:-1 ,墨宝
+rtsp://60.212.114.220:1554/iptv/import/Tvod/iptv/001/001/ch15090916235097407367.rsc/48105_Uni.sdp
+#EXTINF:-1 ,光影
+rtsp://60.212.114.220:1554/iptv/import/Tvod/iptv/001/001/ch15090916254772284807.rsc/48106_Uni.sdp
+#EXTINF:-1 ,戏曲
+rtsp://60.212.114.215:1554/iptv/import/Tvod/iptv/001/001/ch15090915581648434862.rsc/48147_Uni.sdp
+#EXTINF:-1 ,解密
+rtsp://60.212.114.215:1554/iptv/import/Tvod/iptv/001/001/ch15090915530786226072.rsc/48126_Uni.sdp
+#EXTINF:-1 ,武术
+rtsp://60.212.114.216:1554/iptv/import/Tvod/iptv/001/001/ch15090915491066711905.rsc/48146_Uni.sdp
+#EXTINF:-1 ,美妆
+rtsp://60.212.114.220:1554/iptv/import/Tvod/iptv/001/001/ch15090915493052938184.rsc/48108_Uni.sdp
+#EXTINF:-1 ,动画
+rtsp://60.212.114.216:1554/iptv/import/Tvod/iptv/001/001/ch15090915451711071162.rsc/48124_Uni.sdp
+#EXTINF:-1 ,好学生
+rtsp://60.212.114.219:1554/iptv/import/Tvod/iptv/001/001/ch15090916191459347432.rsc/48148_Uni.sdp
+#EXTINF:-1 ,音乐现场
+rtsp://60.212.114.216:1554/iptv/import/Tvod/iptv/001/001/ch15090914592145596821.rsc/48076_Uni.sdp
+#EXTINF:-1 ,经典电影
+rtsp://60.212.114.216:1554/iptv/import/Tvod/iptv/001/001/ch11060317313622161494.rsc/48164_Uni.sdp
+#EXTINF:-1 ,少儿动画
+rtsp://60.212.114.215:1554/iptv/import/Tvod/iptv/001/001/ch11061217221377842336.rsc/48115_Uni.sdp
+#EXTINF:-1 ,相声小品
+rtsp://60.212.114.216:1554/iptv/import/Tvod/iptv/001/001/ch13031310531244319435.rsc/48048_Uni.sdp
+#EXTINF:-1 ,魅力时尚
+rtsp://60.212.114.215:1554/iptv/import/Tvod/iptv/001/001/ch11061217095691862636.rsc/48075_Uni.sdp
+#EXTINF:-1 ,IPTV野外
+rtsp://60.212.114.216:1554/iptv/import/Tvod/iptv/001/001/ch13031310535009021862.rsc/48088_Uni.sdp
+#EXTINF:-1 ,IPTV法治
+rtsp://60.212.114.216:1554/iptv/import/Tvod/iptv/001/001/ch13031310542255942002.rsc/48139_Uni.sdp
+#EXTINF:-1 ,爱体育
+rtsp://60.212.114.220:1554/iptv/import/Tvod/iptv/001/001/ch17120418224162657206.rsc/75038_Uni.sdp
+#EXTINF:-1 ,爱体育
+rtsp://60.212.114.215:1554/iptv/import/Tvod/iptv/001/001/ch11060317323358720349.rsc/48099_Uni.sdp
+#EXTINF:-1 ,爱生活
+rtsp://60.212.114.215:1554/iptv/import/Tvod/iptv/001/001/ch15090915560951747742.rsc/48140_Uni.sdp
+#EXTINF:-1 ,爱综艺
+rtsp://60.212.114.215:1554/iptv/import/Tvod/iptv/001/001/ch11061217211688091136.rsc/48083_Uni.sdp
+#EXTINF:-1 ,爱电影
+rtsp://60.212.114.215:1554/iptv/import/Tvod/iptv/001/001/ch11061217105732492560.rsc/48107_Uni.sdp
+#EXTINF:-1 ,爱大剧
+rtsp://60.212.114.216:1554/iptv/import/Tvod/iptv/001/001/ch11061217231007675294.rsc/48095_Uni.sdp
+#EXTINF:-1 ,收视指南
+rtsp://60.212.114.216:1554/iptv/import/Tvod/iptv/001/001/ch11061217035832697899.rsc/48165_Uni.sdp
+#EXTINF:-1 ,====== 央视频道,#genre# ======
+http://7/7.m3u8
+#EXTINF:-1 ,CCTV1
+http://112.237.124.157:8888/rtp/239.253.248.77:8000
+#EXTINF:-1 ,CCTV2
+http://112.237.124.157:8888/rtp/239.253.248.234:8000
+#EXTINF:-1 ,CCTV4
+http://112.237.124.157:8888/rtp/239.253.248.111:8000
+#EXTINF:-1 ,CCTV5+
+http://112.237.124.157:8888/rtp/239.253.248.80:8000
+#EXTINF:-1 ,CCTV7
+http://112.237.124.157:8888/rtp/239.253.248.235:8000
+#EXTINF:-1 ,CCTV9
+http://112.237.124.157:8888/rtp/239.253.248.79:8000
+#EXTINF:-1 ,CCTV10
+http://112.237.124.157:8888/rtp/239.253.248.236:8000
+#EXTINF:-1 ,CCTV11
+http://112.237.124.157:8888/rtp/239.253.248.12:8000
+#EXTINF:-1 ,CCTV12
+http://112.237.124.157:8888/rtp/239.253.248.237:8000
+#EXTINF:-1 ,CCTV13
+http://112.237.124.157:8888/rtp/239.253.248.14:8000
+#EXTINF:-1 ,CCTV14
+http://112.237.124.157:8888/rtp/239.253.248.238:8000
+#EXTINF:-1 ,CCTV15
+http://112.237.124.157:8888/rtp/239.253.248.16:8000
+#EXTINF:-1 ,CCTV17
+http://112.237.124.157:8888/rtp/239.253.248.168:8000
+#EXTINF:-1 ,====== 卫视频道,#genre# ======
+http://8/8.m3u8
+#EXTINF:-1 ,湖南卫视
+http://112.237.124.157:8888/rtp/239.253.248.82:8000
+#EXTINF:-1 ,浙江卫视
+http://112.237.124.157:8888/rtp/239.253.248.84:8000
+#EXTINF:-1 ,江苏卫视
+http://112.237.124.157:8888/rtp/239.253.248.83:8000
+#EXTINF:-1 ,北京卫视
+http://112.237.124.157:8888/rtp/239.253.248.85:8000
+#EXTINF:-1 ,东方卫视
+http://112.237.124.157:8888/rtp/239.253.248.86:8000
+#EXTINF:-1 ,安徽卫视
+http://112.237.124.157:8888/rtp/239.253.248.87:8000
+#EXTINF:-1 ,广东卫视
+http://112.237.124.157:8888/rtp/239.253.248.90:8000
+#EXTINF:-1 ,深圳卫视
+http://112.237.124.157:8888/rtp/239.253.248.91:8000
+#EXTINF:-1 ,辽宁卫视
+http://112.237.124.157:8888/rtp/239.253.248.92:8000
+#EXTINF:-1 ,海南卫视
+http://112.237.124.157:8888/rtp/239.253.248.35:8000
+#EXTINF:-1 ,山东卫视
+http://112.237.124.157:8888/rtp/239.253.248.78:8000
+#EXTINF:-1 ,天津卫视
+http://112.237.124.157:8888/rtp/239.253.248.89:8000
+#EXTINF:-1 ,重庆卫视
+http://112.237.124.157:8888/rtp/239.253.248.38:8000
+#EXTINF:-1 ,东南卫视
+http://112.237.124.157:8888/rtp/239.253.248.105:8000
+#EXTINF:-1 ,广西卫视
+http://112.237.124.157:8888/rtp/239.253.248.40:8000
+#EXTINF:-1 ,贵州卫视
+http://112.237.124.157:8888/rtp/239.253.248.113:8000
+#EXTINF:-1 ,河北卫视
+http://112.237.124.157:8888/rtp/239.253.248.112:8000
+#EXTINF:-1 ,黑龙江卫视
+http://112.237.124.157:8888/rtp/239.253.248.93:8000
+#EXTINF:-1 ,河南卫视
+http://112.237.124.157:8888/rtp/239.253.248.44:8000
+#EXTINF:-1 ,湖北卫视
+http://112.237.124.157:8888/rtp/239.253.248.88:8000
+#EXTINF:-1 ,江西卫视
+http://112.237.124.157:8888/rtp/239.253.248.47:8000
+#EXTINF:-1 ,吉林卫视
+http://112.237.124.157:8888/rtp/239.253.248.46:8000
+#EXTINF:-1 ,内蒙古卫视
+http://112.237.124.157:8888/rtp/239.253.248.58:8000
+#EXTINF:-1 ,山西卫视
+http://112.237.124.157:8888/rtp/239.253.248.48:8000
+#EXTINF:-1 ,陕西卫视
+http://112.237.124.157:8888/rtp/239.253.248.49:8000
+#EXTINF:-1 ,四川卫视
+http://112.237.124.157:8888/rtp/239.253.248.50:8000
+#EXTINF:-1 ,新疆卫视
+http://112.237.124.157:8888/rtp/239.253.248.60:8000
+#EXTINF:-1 ,云南卫视
+http://112.237.124.157:8888/rtp/239.253.248.42:8000
+#EXTINF:-1 ,厦门卫视
+http://112.237.124.157:8888/rtp/239.253.248.106:8000
+#EXTINF:-1 ,青海卫视
+http://112.237.124.157:8888/rtp/239.253.248.54:8000
+#EXTINF:-1 ,西藏卫视
+http://112.237.124.157:8888/rtp/239.253.248.56:8000
+#EXTINF:-1 ,兵团卫视
+http://112.237.124.157:8888/rtp/239.253.248.57:8000
+#EXTINF:-1 ,农林卫视
+http://112.237.124.157:8888/rtp/239.253.248.70:8000
+#EXTINF:-1 ,少儿动漫
+http://112.237.124.157:8888/rtp/239.253.248.127:8000
+#EXTINF:-1 ,少儿动漫
+http://112.237.124.157:8888/rtp/239.253.248.157:8000
+#EXTINF:-1 ,动漫秀场
+http://112.237.124.157:8888/rtp/239.253.248.115:8000
+#EXTINF:-1 ,北京KAKU少儿
+http://112.237.124.157:8888/rtp/239.253.248.61:8000
+#EXTINF:-1 ,金鹰卡通
+http://112.237.124.157:8888/rtp/239.253.248.62:8000
+#EXTINF:-1 ,嘉佳卡通
+http://112.237.124.157:8888/rtp/239.253.248.65:8000
+#EXTINF:-1 ,优漫卡通
+http://112.237.124.157:8888/rtp/239.253.248.64:8000
+#EXTINF:-1 ,====== 数字频道,#genre# ======
+http://9/9.m3u8
+#EXTINF:-1 ,生活时尚
+http://112.237.124.157:8888/rtp/239.253.248.99:8000
+#EXTINF:-1 ,====== 其他频道,#genre# ======
+http://10/10.m3u8
+#EXTINF:-1 ,都市剧场
+http://112.237.124.157:8888/rtp/239.253.248.98:8000
+#EXTINF:-1 ,====== 数字频道,#genre# ======
+http://11/11.m3u8
+#EXTINF:-1 ,游戏风云
+http://112.237.124.157:8888/rtp/239.253.248.95:8000
+#EXTINF:-1 ,金色学堂
+http://112.237.124.157:8888/rtp/239.253.248.101:8000
+#EXTINF:-1 ,乐游
+http://112.237.124.157:8888/rtp/239.253.248.97:8000
+#EXTINF:-1 ,法制天地
+http://112.237.124.157:8888/rtp/239.253.248.96:8000
+#EXTINF:-1 ,东方财经
+http://112.237.124.157:8888/rtp/239.253.248.94:8000
+#EXTINF:-1 ,====== 电影频道,#genre# ======
+http://12/12.m3u8
+#EXTINF:-1 ,家庭影院
+http://112.237.124.157:8888/rtp/239.253.248.152:8000
+#EXTINF:-1 ,动作电影
+http://112.237.124.157:8888/rtp/239.253.248.153:8000
+#EXTINF:-1 ,影迷电影
+http://112.237.124.157:8888/rtp/239.253.248.154:8000
+#EXTINF:-1 ,====== 教育频道,#genre# ======
+http://13/13.m3u8
+#EXTINF:-1 ,中国教育1
+http://112.237.124.157:8888/rtp/239.253.248.110:8000
+#EXTINF:-1 ,中国教育2
+http://112.237.124.157:8888/rtp/239.253.248.107:8000
+#EXTINF:-1 ,中国教育4
+http://112.237.124.157:8888/rtp/239.253.248.108:8000
+#EXTINF:-1 ,CGTN
+http://112.237.124.157:8888/rtp/239.253.248.17:8000
+#EXTINF:-1 ,CETV
+http://112.237.124.157:8888/rtp/239.253.248.217:8000
+#EXTINF:-1 ,====== 山东地区,#genre# ======
+http://14/14.m3u8
+#EXTINF:-1 ,山东新闻
+http://112.237.124.157:8888/rtp/239.253.248.23:8000
+#EXTINF:-1 ,山东教育
+http://112.237.124.157:8888/rtp/239.253.248.59:8000
+#EXTINF:-1 ,山东农科
+http://112.237.124.157:8888/rtp/239.253.248.24:8000
+#EXTINF:-1 ,山东少儿
+http://112.237.124.157:8888/rtp/239.253.248.25:8000
+#EXTINF:-1 ,山东生活
+http://112.237.124.157:8888/rtp/239.253.248.20:8000
+#EXTINF:-1 ,山东体育
+http://112.237.124.157:8888/rtp/239.253.248.22:8000
+#EXTINF:-1 ,山东综艺
+http://112.237.124.157:8888/rtp/239.253.248.21:8000
+#EXTINF:-1 ,齐鲁
+http://112.237.124.157:8888/rtp/239.253.248.18:8000
+#EXTINF:-1 ,山东居家购物
+http://112.237.124.157:8888/rtp/239.253.248.104:8000
+#EXTINF:-1 ,山东文旅
+http://112.237.124.157:8888/rtp/239.253.248.19:8000
+#EXTINF:-1 ,烟台公共
+http://112.237.124.157:8888/rtp/239.253.248.252:8000
+#EXTINF:-1 ,烟台经济
+http://112.237.124.157:8888/rtp/239.253.248.249:8000
+#EXTINF:-1 ,烟台新闻
+http://112.237.124.157:8888/rtp/239.253.248.254:8000
+#EXTINF:-1 ,烟台影视
+http://112.237.124.157:8888/rtp/239.253.248.250:8000
+#EXTINF:-1 ,莱州
+http://112.237.124.157:8888/rtp/239.253.248.251:8000
+#EXTINF:-1 ,====== 特色频道,#genre# ======
+http://15/15.m3u8
+#EXTINF:-1 ,重温经典频道
+https://cdn.jdshipin.com/cwjd.php
+#EXTINF:-1 ,重温经典频道
+http://m.061899.xyz/mg/cwjd
+#EXTINF:-1 ,重温经典频道
+http://8.138.7.223/tv/cwjd.php
+#EXTINF:-1 ,欢笑剧场
+http://38.75.136.137:98/gslb/dsdqpub/hxjchd.m3u8?auth=testpub
+#EXTINF:-1 ,都市剧场
+http://38.75.136.137:98/gslb/dsdqpub/dsjchd.m3u8?auth=testpub
+#EXTINF:-1 ,怀旧剧场
+http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
+#EXTINF:-1 ,重温经典
+http://38.75.136.137:98/gslb/dsdqpub/cwjd.m3u8?auth=testpub
+#EXTINF:-1 ,湖北影视
+http://38.75.136.137:98/gslb/dsdqpub/hbys.m3u8?auth=testpub
+#EXTINF:-1 ,天津影视
+http://38.75.136.137:98/gslb/dsdqpub/tjtv3.m3u8?auth=testpub
+#EXTINF:-1 ,央视台球
+http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
+#EXTINF:-1 ,五星体育
+http://38.75.136.137:98/gslb/dsdqpub/wxtyhd.m3u8?auth=testpub
+#EXTINF:-1 ,高尔夫网球
+http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
+#EXTINF:-1 ,广东体育
+http://38.75.136.137:98/gslb/dsdqpub/gdty.m3u8?auth=testpub
+#EXTINF:-1 ,天津体育
+http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
+#EXTINF:-1 ,风云足球
+http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
+#EXTINF:-1 ,世界地理
+http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
+#EXTINF:-1 ,风云音乐
+http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub央视频道,#genre#
